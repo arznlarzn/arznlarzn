@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arznlarzn
-- 
+  
 - larsondavis.io
 - This is my website/portfolio that will end up redirecting you to my project github repositories.
 - You might even be here from my site. =P Thank you. =]
