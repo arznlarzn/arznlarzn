@@ -1,11 +1,17 @@
 - 👋 Hi, I’m @arznlarzn
-- 👀 I’m interested in ... everything. I think I am going to focus on learning a low level language like C or Rust.
-- 🌱 I’m currently learning ... I've actually been bouncing around. Right now though I am building a website wtih HTML, CSS, and JS that will serve as a place leading to my projects and my github repository that will be my portfolio.
-- 💞️ I’m looking to collaborate on ... Godot projects!?? Yaaaaaasssss!
-- 📫 How to reach me ... discord @arznlarz
-- ⚡ Fun fact: ... I sing and song write. I learned how to code a couple years ago, and I've built projects in C#, lots of Python projects with GUIs, and I've dabbled with all kinds of stuff.
+- 
+- larsondavis.io
+- This is my website/portfolio that will end up redirecting you to my project github repositories.
+- You might even be here from my site. =P Thank you. =]
 
-<!---
-arznlarzn/arznlarzn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Full transparency - Right now, my projects are kind of weak. I think I lost a bunch of code between computers,
+- however, it simply means I need to redo projects or build some new ones. And I am trying to do this all in real-time.
+- Every change, every commit, and every push-
+- From the time I was 'okay' at coding
+- Till I'm building my APIs and getting paid for it, or something like that.
+
+- I am going to get into the field of technology.
+- The difficult and uncommon, but possible and rewarding.
+- And the biggest bragging points. Imo.
+
+- Let's go!
